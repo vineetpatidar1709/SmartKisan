@@ -1,0 +1,21 @@
+STATE_BIGHA_CONVERSION = {
+    "Madhya Pradesh": 0.25,
+    "Uttar Pradesh": 0.27,
+    "Rajasthan": 0.16,
+    "Punjab": 0.25,
+    "Haryana": 0.25,
+    "Bihar": 0.20,
+    "Gujarat": 0.16,
+    "Maharashtra": 0.25,
+    "West Bengal": 0.13,
+    "Assam": 0.33,
+    "Chhattisgarh": 0.25,
+    "Odisha": 0.20,
+    "Tamil Nadu": 0.33,
+    "Karnataka": 0.40,
+    "Telangana": 0.25,
+    "Andhra Pradesh": 0.40,
+    "Jharkhand": 0.20,
+    "Himachal Pradesh": 0.20,
+    "Uttarakhand": 0.20
+}
